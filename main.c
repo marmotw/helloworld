@@ -3,5 +3,6 @@
 
 int main(void)
 {
-  return 0;
+    printf("this is a github!\n");
+    return 0;
 }
