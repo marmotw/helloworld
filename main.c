@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
+int a;
 int main(void)
 {
     uint32_t a=1;
